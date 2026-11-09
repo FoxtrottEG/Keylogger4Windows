@@ -1,11 +1,10 @@
+
 this will be written in C++
-so i learn something usefull
+so i learn something usefull unlike python
 
-wallahi so what it do
-
+#Requirements
 Records keypresses during a set time
 can be toggled off and on
 displays ammount of key presses when prompted
 
-this will at first only be available for linux systems
-wallahi windows version one day i bet on my left nut3
+##I will write this for windows first as there are issues with implementing this on linux systems running wayland
